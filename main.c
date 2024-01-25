@@ -8,5 +8,11 @@ int main(void)
     {
         printf("hola\n");
     }
+    for (size_t i = 0; i < count; i++)
+    {
+        /* code */
+    }
+    while (1)
+        printf("hola\n");
     exit(EXIT_SUCCESS);
 }
